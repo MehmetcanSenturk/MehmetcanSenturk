@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<a href="https://mehmetcansenturk.com" target="_blank">
-  <h3 align="center">mehmetcansenturk.com</h3>
+<a href="https://mehmetcansenturk.com">mehmetcansenturk.com</a>
+
 </a>
 
 
