@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<a href="https://mehmetcansenturk.com">mehmetcansenturk.com</a>
+<a href="https://mehmetcansenturk.com" target="_blank">Web Sitem</a>
 
 </a>
 
