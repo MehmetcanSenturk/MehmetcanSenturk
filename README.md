@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">It's all about sudo</h3>
+<h3 align="center">https://mehmetcansenturk.com/</h3>
 
 - 📫 How to reach me **mehmetcansentrk@gmail.com**
 
